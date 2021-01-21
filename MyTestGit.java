@@ -5,6 +5,7 @@ public class MyTestGit {
         System.out.println("你今天看起来真帅！");
         System.out.println("确实，你也很帅");
         System.out.println("这里能不能成功？");
+	System.out.println("再来试一遍");
     }
 }
 //https://github.com/windy-HQ/TestMyself.git
